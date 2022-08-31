@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Flna \n
+ls -Fmna \n
