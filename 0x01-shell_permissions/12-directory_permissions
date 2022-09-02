@@ -1,0 +1,2 @@
+#!/bin/bash
+unmask 0751; mkdir my_dir
